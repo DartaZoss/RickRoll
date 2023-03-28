@@ -1,0 +1,1 @@
+const coolButton = document.querySelector ('.js-cool')
